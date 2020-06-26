@@ -1,1 +1,1 @@
-print()[D"")[D[DSuccessfull")
+print("Hello word")
